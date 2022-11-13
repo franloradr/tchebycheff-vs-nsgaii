@@ -1,8 +1,15 @@
 # Tchebycheff vs NSGAII
-Tchebycheff aggregation vs NSGAII, Which one is better at finding the Pareto front in multi-objective optimization problem?
+Tchebycheff aggregation vs NSGAII, Which one is better at finding the Pareto front in a multi-objective optimization problem?
+
+Multi-objective problems used for the competition are ZDT3 and CF6.
 
 # Authors
  - Francisco Jesús Belmonte Pintre
+
+# Files
+ - informe_final --> Paper on pdf format
+ - results --> Different captures from the algorithm outputs
+ - ASC_final --> The source code
 
 # Captures
 <p align="center">
